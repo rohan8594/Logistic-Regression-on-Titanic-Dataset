@@ -13,3 +13,7 @@ In this project I've used the following tools and Python packages:
 * **Matplotlib:** The data visualisation package of Python. Has a very similar feel to MalLab's graphical plotting and works well with numpy and pandas.
 * **Seaborn:**  Statistical plotting library built on top of Matplotlib. It is also designed to work very well with pandas dataframes objects.
 * **Scikit-learn:** The machine learning package of Python. Makes implementing ML Algorithms extremely simple. 
+
+## Results
+
+The classifier built here has a prediction score of 0.81, i.e., we get an average accuracy of 80+%. This is a pretty good accuracy for starters and could be improved upon by coming up with newer, better features by using some feature engineering. This is something I could work on in the future.
